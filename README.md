@@ -5,7 +5,7 @@ Soy estudiante de programación con en Java, JavaScript, Python y MySQL. Me apas
 
 ## 🚀 Vistas de Perfil
 
-![Vistas del Perfil](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMaxiMorales96&count_bg=%230D1117&title_bg=%2358A6FF&title=VISITAS)
+![Profile Views](https://komarev.com/ghpvc/?username=tu-usuario-github&color=brightgreen)
 
 ## Tecnologías que manejo
 
